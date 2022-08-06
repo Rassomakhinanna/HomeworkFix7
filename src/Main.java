@@ -17,7 +17,7 @@ public class Main {
                 max = myArray [i];
             }
         }
-        System.out.println("Минимальные затраты" + min + "Максимальные затраты" + max);
+        System.out.println("Минимальные затраты" + min + "Максимальные затраты" + max "рублей");
     }
     public static int[] generateRandomArray() {
         java.util.Random random = new java.util.Random();
